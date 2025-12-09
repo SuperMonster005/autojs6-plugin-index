@@ -1,0 +1,1 @@
+# autojs6-plugin-index
