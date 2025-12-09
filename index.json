@@ -1,0 +1,27 @@
+{
+  "plugins": [
+    {
+      "packageName": "io.github.supermonster003.autojs6.plugin.paddleocr.v5",
+      "title": "Paddle OCR (PP-OCRv5)",
+      "description": "百度飞桨光学字符识别插件",
+      "author": "SuperMonster003",
+      "collaborators": [],
+      "engine": "paddle-ocr",
+      "variant": "v5",
+      "engineId": "paddle-ocr-pp-ocrv5",
+      "versionName": "0.1.0",
+      "versionCode": 23,
+      "versionDate": "2025-12-09",
+      "apkUrl": "https://github.com/SuperMonster005/autojs6-plugin-paddle-ocr-pp-ocrv5/releases/download/v0.1.0/autojs6-plugin-paddle-ocr-pp-ocrv5-v0.1.0-6b7a7715.apk",
+      "apkSha256": "9388ab4a3cb36cee76820c217a5b0105b5498f5c895103056760732531d08cad",
+      "apkSizeBytes": 116120261,
+      "iconUrl": null,
+      "tags": [
+        "official",
+        "ocr",
+        "paddle",
+        "v5"
+      ]
+    }
+  ]
+}
